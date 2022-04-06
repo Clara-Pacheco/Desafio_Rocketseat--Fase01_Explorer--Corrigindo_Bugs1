@@ -6,7 +6,7 @@ Nesse desafio, você receberá um código com o projeto desenvolvido durante 
 Mas, a surpresa vem aí...  👀  
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
-![Imagem do desafio 01- Nível2-Explorer-Rocketseat]()
+![Imagem do desafio 01- Nível2-Explorer-Rocketseat](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Fase01_Explorer--Corrigindo_Bugs1/blob/main/images/image_challenge01.png)
 
 <hr>
 
